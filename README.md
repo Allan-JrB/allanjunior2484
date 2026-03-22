@@ -9,7 +9,7 @@ Tenho formação técnica em Redes de Computadores pela ETE Gravatá-PE e especi
 
 Confira meus projetos e contribuições.
 
-🧑🏽 **Estudante** de Sistema de Informação 4/8
+🧑🏽 **Estudante** de Sistema de Informação 5/8
 
 💻 Desenvolvimento de Software (Back-End)
 
